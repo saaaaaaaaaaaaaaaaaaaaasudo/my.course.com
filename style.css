@@ -1,0 +1,89 @@
+body {background-color: black;
+    font-size: 15pt;
+}
+
+
+h1{color: white;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25p;}
+  *::selection{background-color: aqua;
+  color:white;}
+  #dev{text-align: center;
+    border-radius: 25px;
+    background-color: purple;
+    padding-top: 20px;
+    width: 70px;
+    height: 50px;
+    margin-left: 150px;
+  }
+
+  
+  #html1{color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin:auto;
+   
+  }
+  p{font-size:18px;
+    margin-top:-20px;
+  }
+  
+  #css1{color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin:auto;}
+    #css3{font-size:18px;
+    margin-top:-20px;}
+    
+    #java1{color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin:auto;}
+    a{color: pink;
+      margin-left:100px;}
+    
+    #Android2{color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+   
+    margin-bottom:-50px ;}
+    #Android3{width:300px;
+    margin-top: -200px;
+    color:white;}
+   #python1{color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin-top: 35px;
+    margin-left: 40px;}
+   #pjm1{ color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin:auto;
+   }
+   #blokchain1{ color: white;
+    border-radius: 25px;
+  background-color: slategray ;
+    height: 300px;
+    width:300px;
+    margin:auto;}
+    #blockchain3{ margin-top: 20px;}
+@media screen and (min-width:400px){#dev{margin: auto;}
+ #python1{margin-left: 330px;}}
+      
+   
+  
+ 
+  
